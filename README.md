@@ -27,6 +27,8 @@ Users should be able to:
 - HTML5
 - CSS
 
+##LivePage
+- https://github.com/Parallax.github.io/
 ## Author
 
 - Frontend Mentor - [#MyProfile](https://www.frontendmentor.io/profile/AlanDavid-007)
