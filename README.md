@@ -28,7 +28,7 @@ Users should be able to:
 - CSS
 
 ##LivePage
-- https://github.com/Parallax.github.io/
+- https://alandavid-007.github.io/Parallax/
 ## Author
 
 - Frontend Mentor - [#MyProfile](https://www.frontendmentor.io/profile/AlanDavid-007)
