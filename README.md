@@ -27,7 +27,7 @@ Users should be able to:
 - HTML5
 - CSS
 
-##LivePage
+## LivePage
 - https://alandavid-007.github.io/Parallax/
 ## Author
 
