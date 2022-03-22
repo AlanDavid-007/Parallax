@@ -5,7 +5,6 @@ Project testing Parallax
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Built with](#built-with)
   - [Live Page](#LivePage)
 - [Author](#author)
@@ -25,7 +24,7 @@ Users should be able to:
 ### Built with
 
 - HTML5
-- CSS
+- CSS3
 
 ## LivePage
 - https://alandavid-007.github.io/Parallax/
